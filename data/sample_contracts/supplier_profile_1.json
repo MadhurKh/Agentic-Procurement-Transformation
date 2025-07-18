@@ -1,0 +1,8 @@
+{
+  "supplier_id": "SUP12345",
+  "name": "Acme Supplies Ltd",
+  "country": "India",
+  "registration_number": "IND-R123456789",
+  "onboarding_status": "Pending",
+  "documents_submitted": ["GST", "Incorporation Certificate"]
+}
